@@ -1,0 +1,21 @@
+MONDAY
+M 12:00 (Name)
+M 1:00 (Name)
+
+TUESDAY
+T 12:00 (Name)
+
+WEDNESDAY
+W 12:00 (Name)
+
+THURSDAY
+TH 12:00 (Name)
+
+FRIDAY
+F 12:00 (Name)
+
+SATURDAY
+SA 12:00 (Name)
+
+SUNDAY
+SU 12:00 (Name)

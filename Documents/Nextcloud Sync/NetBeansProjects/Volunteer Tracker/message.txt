@@ -1,0 +1,3 @@
+No message has been set yet!
+
+To set an admin message edit the text file called "message.txt".
